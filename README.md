@@ -3,3 +3,4 @@ Open world head to head tank fight with simple AI and terrain and advanced contr
 
 ***************************************************************
 
+* BT01 - setup remote repository on github
